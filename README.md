@@ -4,7 +4,7 @@
       - C#
       - JS/React.js/TypeScript
       - Azure Developing
-      - 
+
 - 🌱 I’m currently learning more about ... 
       - Azure and its PaaS solutions to help developers be more efficient
 
