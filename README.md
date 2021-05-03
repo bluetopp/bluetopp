@@ -15,6 +15,11 @@
 - 📫 How to reach me ...
       - Mail @ kjetil.b.gudmundsen@gmail.com
 
+* Item 1
+* Item 2
+ * Item 2a
+ * Item 2b
+
 <!---
 bluetopp/bluetopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
