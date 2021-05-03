@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluetopp!
 - 👀 I’m interested in ...
-      - Web Development
+- - Web Development
       - C#
       - JS/React.js/TypeScript
       - Azure Developing
