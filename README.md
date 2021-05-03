@@ -12,6 +12,11 @@
 - 📫 How to reach me ...
       * Mail @ kjetil.b.gudmundsen@gmail.com
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 <!---
 bluetopp/bluetopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
