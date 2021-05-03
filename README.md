@@ -15,6 +15,16 @@
 - 📫 How to reach me ...
  - Mail @ kjetil.b.gudmundsen@gmail.com
 
+
+1. Ordered One
+   * Unordered First
+   * Unordered Second
+   * Unordered Third
+1. Ordered Second
+   * Unordered One
+   * Unordered Two
+   * Unordered Three
+
 <!---
 bluetopp/bluetopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
